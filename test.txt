@@ -2,3 +2,5 @@ This is a personal note
 test 2
 dasdasdate
 featureX branch added 
+
+master changed here
